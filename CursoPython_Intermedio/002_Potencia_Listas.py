@@ -14,7 +14,11 @@ la lista
 El conjunto <for element in iterable> representa el ciclo a partir
 del cual se extraeran los elementos
 El conjunto <if condition> representa un filtro opcional que se
-puede aplicar para guardar la lista
+puede aplicar para guardar la lista.
+
+La manera de leer dicha estructura es: para cada elemento
+en la instrucción iterable, guardaré dicho elemento en la 
+lista si se cumple alguna condición existente
 '''
 
 def run():
