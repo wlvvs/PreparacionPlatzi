@@ -99,13 +99,13 @@ def run():
     
 ''')
 
-    with open("./files/movies.txt","r",encoding= "utf-8") as film:
+    with open("./files/movies.txt","r") as film:
         for item in film:
             films.append(item)
     option = random.choice(films).upper()
 
-    
     check_string(option[:-1])
+
 
 if __name__ == '__main__':
     run()
