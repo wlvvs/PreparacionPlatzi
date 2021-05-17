@@ -1,0 +1,34 @@
+1. Para la instalación de las librerias usadas en el programa de regresión, fue necesario hacerlo de la siguiente manera:
+
+python3 -m pip install matplotlib
+python3 -m pip install numpy
+
+Lo anterior porque al hacer la instalación de manera clásica, el código no me reconocía las librerias. Ahondando, vi un comentario en stack overflow que se trata de un tema de arquitectura, y que, al hacerlo de esa manera, estaba haciendo una instalación a 64bits.
+A continuación, la captura de verificación de las librerias instaladas dentro del entorno virtual:
+
+(venv) Z:\scripts\MaterialCursosPlatzi\CursoRegresionLinealPython [master +2 ~1 -0 !]> pip3 show numpy
+Name: numpy
+Version: 1.20.3
+Summary: NumPy is the fundamental package for array computing with Python.
+Home-page: https://www.numpy.org
+Author: Travis E. Oliphant et al.
+Author-email: None
+License: BSD
+Location: z:\scripts\materialcursosplatzi\cursoregresionlinealpython\venv\lib\site-packages
+Requires:
+Required-by: matplotlib
+
+(venv) Z:\scripts\MaterialCursosPlatzi\CursoRegresionLinealPython [master +2 ~1 -0 !]> pip3 show matplotlib
+Name: matplotlib
+Version: 3.4.2
+Summary: Python plotting package
+Home-page: https://matplotlib.org
+Author: John D. Hunter, Michael Droettboom
+Author-email: matplotlib-users@python.org
+License: PSF
+Location: z:\scripts\materialcursosplatzi\cursoregresionlinealpython\venv\lib\site-packages
+Requires: python-dateutil, kiwisolver, cycler, pyparsing, pillow, numpy
+Required-by:
+
+(venv) Z:\scripts\MaterialCursosPlatzi\CursoRegresionLinealPython [master +2 ~1 -0 !]>
+
