@@ -11,6 +11,9 @@ import time
 
 def evaluacion(lim_inf, lim_sup, valor):
     
+    if float(lim_sup) < float(valor):
+        return False
+
     if (float(lim_inf) < 0 and float(lim_sup) < 0) or float(lim_sup) < 0:
         valor = abs(float(valor))
         tmp = abs(float(lim_sup))
