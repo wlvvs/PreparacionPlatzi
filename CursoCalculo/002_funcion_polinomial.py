@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Se pasa el dominio (x)
 def f(x):
     # Se regresa la ejecución de la función
-    return (2 * x**10) + (x**6) - (2 * x**4) - (x**2) + (18 * x) - 3
+    return (2 * x**7) + (x**6) - (2 * x**4) + (x**2) + (18 * x) + 3
 
 
 def run():
@@ -21,6 +21,11 @@ def run():
 
     # Definicion de ejes
     fig, ax = plt.subplots()
+
+    # VAriables para limitar el plano
+    plt.xlim(-10, 10)
+    plt.ylim(-10, 10)
+
     # Se indica que dibuje x y y
     ax.plot (x, y)
     # Se indica que coloque la cuadrícula
