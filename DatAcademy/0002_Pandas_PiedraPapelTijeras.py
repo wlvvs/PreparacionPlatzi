@@ -24,10 +24,24 @@ def clearenv():
 def winner(choose):
     PLAY = (1, 2, 3, 4, 5)
     machine_op = int(random.choice(PLAY))
-    df = pd.read_csv("game.csv")
+    aux = choose - 1
 
     try:
-        result = int(df.iloc[int(choose) - 1, machine_op])
+
+        df = pd.read_csv("./files/game.csv")
+
+    except FileNotFoundError:
+        datos = {'':['piedra', 'papel', 'tijeras', 'lagarto', 'spock'],
+            'piedra':[-9,2,1,1,5],
+            'papel':[2,-9,3,4,2],
+            'tijeras':[2,-9,3,4,2],
+            'lagarto':[1,4,3,-9,4],
+            'spock':[5,2,5,4,-9]
+            }
+        df = pd.DataFrame(datos)
+
+    try:
+        result = int(df.iloc[int(aux), machine_op])
 
         if choose < 0:
             raise ValueError
@@ -89,11 +103,11 @@ _________________________________
             print('')
             if int(played[0]) == 1:
                 print('Ganó la máquina! Tu elegiste', choose, 'y la máquina eligió', played[1])
-                w_people += 1
+                w_machine += 1
 
             elif int(played[0]) == 0:
                 print('Ganaste! Tu elegiste', choose, 'y la máquina eligió', played[1])
-                w_machine += 1
+                w_people += 1
 
             elif int(played[0]) == -9:
                 print('Esto es un empate! Tu elegiste', choose, 'y la máquina eligió', played[1])
@@ -112,8 +126,8 @@ _________________________________
 
         if w_people == 3 or w_machine == 3:
             cut = 1
+            print('')
             if w_people < w_machine:
-                print('')
                 print('    Se acabaron los intentos, ganó la máquina!!')
             else:
                 print('    Se acabaron los intentos, ganaste!!')
