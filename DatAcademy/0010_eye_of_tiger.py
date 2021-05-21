@@ -4,10 +4,67 @@ Aquí se crea el modelo de regresión lineal
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+import psycopg2 as pg2
+from configparser import ConfigParser
+
+def config(filename='./files/database.ini', section='postgresql'):
+    # Se crea un parser, que analiza sintácticamente, en este caso, un archivo
+    parser = ConfigParser()
+    # La función de parser lee el archivo de configuraciones
+    parser.read(filename)
+
+    # Se busca y obtiene la sección de la conexión en postgresql
+    db = {}
+    if parser.has_section(section):
+        params = parser.items(section)
+        for param in params:
+            db[param[0]] = param[1]
+    else:
+        raise Exception('La sección {0} no fue encontrada en el archivo de configuracion {1}'.format(section, filename))
+
+    return db
+
+
+def connect():
+    """ Se establece la conexión a la BD """
+    conn = None
+    try:
+        # Se lee la configuración establecida vía archivo
+        params = config()
+
+        # Se realiza la conexión a la BD
+        conn = pg2.connect(**params)
+		
+        # Se crea un cursor con la conexión configurada
+        cur = conn.cursor()
+        
+	    # Se ejecuta una consulta
+        cur.execute('SELECT id, peso FROM plan_ocb po ORDER BY id')
+
+        # Se guarda la salida en la variable de manejo del cursor
+        all_rows = cur.fetchall()
+        # Se crea un ciclo para generar con la salid del query, un diccionario
+        query = []
+        for row in all_rows:
+            query_tmp = {"id":row[0], "peso":row[1]}
+            query.append(query_tmp)
+
+        return query
+       
+	# close the communication with the PostgreSQL
+        cur.close()
+    except (Exception, pg2.DatabaseError) as error:
+        print(error)
+    finally:
+        if conn is not None:
+            # Se cierra la conexión, buena práctica
+            conn.close()
+
 
 def run():
     
-    df = pd.read_csv('./files/eye_of_the_tiger.csv')
+    query = connect()
+    df = pd.DataFrame.from_dict(query)
     
     X = df['id'].values
     Y = df['peso'].values
