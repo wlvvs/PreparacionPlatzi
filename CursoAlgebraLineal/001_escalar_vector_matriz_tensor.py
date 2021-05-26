@@ -21,11 +21,11 @@ def run():
     tensor = np.array([[matriz * 3], [matriz * 2], [matriz * 4]])
     ic(tensor)
     # Fue necesario agregar esta instruccion debido a que, al momento de conformar los datos, me estaba llevando espacios entre matrices
-    tensor = tensor.squeeze()
-    ic(tensor)
+    tensor_squeeze = tensor.squeeze()
+    ic(tensor_squeeze)
 
     # La interpolacion es omo se unen los espacios entre dos numeros
-    plt.imshow(tensor, interpolation='nearest')
+    plt.imshow(tensor_squeeze, interpolation='nearest')
     plt.show()
 
 
