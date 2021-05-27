@@ -52,7 +52,7 @@ def run():
     print('El valor del error cuadrático medio es de : ',mean_squared_error(Y_test, y_pred))
     values = pd.DataFrame({'Actual_test': Y_test.flatten(), 'Predict': y_pred.flatten()})
     print('')
-    print('LA extraccion de 5 regisros para ver el error cuadrático medio')
+    print('La extraccion de 5 regisros para ver el error cuadrático medio')
     print(values.head(5))
      
     # Se grafica la recta de prediccion
