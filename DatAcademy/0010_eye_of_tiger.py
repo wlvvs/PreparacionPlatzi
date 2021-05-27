@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 import psycopg2 as pg2
 import numpy as np
 from configparser import ConfigParser
-from sklearn.model_selection import train_test_split # Entrenamiento
+from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error # Se importa de la libreria la funcion que realiza ese cálculo
+from sklearn.metrics import mean_squared_error
 
 def config(filename='./files/database.ini', section='postgresql'):
     # Se crea un parser, que analiza sintácticamente, en este caso, un archivo
