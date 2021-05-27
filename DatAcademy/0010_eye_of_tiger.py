@@ -5,7 +5,11 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import psycopg2 as pg2
+import numpy as np
 from configparser import ConfigParser
+from sklearn.model_selection import train_test_split # Entrenamiento
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error # Se importa de la libreria la funcion que realiza ese cálculo
 
 def config(filename='./files/database.ini', section='postgresql'):
     # Se crea un parser, que analiza sintácticamente, en este caso, un archivo
@@ -31,14 +35,11 @@ def connect():
     try:
         # Se lee la configuración establecida vía archivo
         params = config()
-
         # Se realiza la conexión a la BD
         conn = pg2.connect(**params)
-		
         # Se crea un cursor con la conexión configurada
         cur = conn.cursor()
-        
-	    # Se ejecuta una consulta
+        # Se ejecuta una consulta
         cur.execute('SELECT id, peso FROM plan_ocb po ORDER BY id')
 
         # Se guarda la salida en la variable de manejo del cursor
@@ -48,9 +49,7 @@ def connect():
         for row in all_rows:
             query_tmp = {"id":row[0], "peso":row[1]}
             query.append(query_tmp)
-
         return query
-       
 	# close the communication with the PostgreSQL
         cur.close()
     except (Exception, pg2.DatabaseError) as error:
@@ -65,20 +64,12 @@ def run():
     
     query = connect()
     df = pd.DataFrame.from_dict(query)
-    
     X = df['id'].values
     Y = df['peso'].values
-
     X = X.reshape(-1, 1)
-
-    from sklearn.model_selection import train_test_split
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size = 0.2)
-    
-    from sklearn.linear_model import LinearRegression
-    
     reg = LinearRegression()
     reg.fit(X_train, Y_train)
-
     ## Convierte la vista en lista, tipo arreglo
     x_flat = X_train.flatten()
     
@@ -92,11 +83,7 @@ def run():
     # Se grafican los puntos aislados del entrenamiento
     sns.scatterplot(x = x_flat, y = Y_train)
 
-    '''Se calcula el ECM
-    Se importa de la libreria la funcion que realiza ese cálculo
-    '''
-    from sklearn.metrics import mean_squared_error
-    
+    # Se calcula el ECM
     # Se realiza el cálculo de la prediccion
     # Estos valores se calculan para observar gráficamente los resultados en la muestra de prueba
     y_pred = reg.predict(X_test)
@@ -105,17 +92,19 @@ def run():
     rabajadas para el entrenamiento y prueba las conjunta python de manera aleatoria
     El profesor obtuvo 20.13
     '''
+    m = reg.coef_
+    b = reg.intercept_
+
     print('')
     print('El valor del error cuadrático medio es de : ',mean_squared_error(Y_test, y_pred))
     values = pd.DataFrame({'Actual_test': Y_test.flatten(), 'Predict': y_pred.flatten()})
     print('')
-    print('La extraccion de los regisros para ver el error cuadrático medio')
+    print('La extraccion de los registros para ver el error cuadrático medio')
     print(values)
     print('')
-    print('La pendiente es: ',reg.coef_)
-    print('El bias es: ', reg.intercept_)
+    print('La pendiente es: ',m)
+    print('El bias es: ', b)
     print('')
-     
     # Se grafica la recta de prediccion
     plt.plot(X_train, y_hat, color = 'r')
     plt.show()
