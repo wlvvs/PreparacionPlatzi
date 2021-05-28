@@ -10,6 +10,7 @@ from configparser import ConfigParser
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
+from icecream import ic
 
 def config(filename='./files/database.ini', section='postgresql'):
     # Se crea un parser, que analiza sintácticamente, en este caso, un archivo
@@ -90,7 +91,6 @@ def run():
     
     '''El cálculo del error cuadrático medio puede variar entre cada ejemplo, esto es porque las muestras
     rabajadas para el entrenamiento y prueba las conjunta python de manera aleatoria
-    El profesor obtuvo 20.13
     '''
     m = reg.coef_
     b = reg.intercept_

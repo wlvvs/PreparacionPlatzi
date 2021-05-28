@@ -24,7 +24,7 @@ def run():
     probabilidades = [dist.pdf(value) for value in values]
     # bins se usa para definir el numero de barras a mostrar
     # density es que normalice conteos para que me den probabilidades y no números grandes
-    pyplot.hist(sample, bins =30, density = True)
+    pyplot.hist(sample, bins = 30, density = True)
     pyplot.plot(values, probabilidades)
     pyplot.show()
 
