@@ -33,7 +33,7 @@ def run():
     numbers_sample = list(zip(data[30:35], target[30:35]))
     ic(np.array(numbers_sample).shape)
 
-    plt.figure(figsize=(16,16))
+    plt.figure(figsize = (16,16))
     for index, (image,label) in enumerate(numbers_sample):
         reshaped_image = np.reshape(image, (28,28))
         plt.subplot(1, len(numbers_sample), index + 1)
