@@ -56,7 +56,6 @@ def run():
     tenemos underfitting. El mundo funciona en equilibrio y aqui aplica lo mismo
 
     """
-
     x_train, x_test, y_train, y_test = train_test_split(data, target,
     train_size = TRAIN_SAMPLES, test_size = TEST_SIZE,
     random_state = RANDOM_ST)
