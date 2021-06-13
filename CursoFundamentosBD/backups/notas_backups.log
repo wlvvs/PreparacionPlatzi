@@ -1,0 +1,13 @@
+# 13/06/2021
+# Import BD command line linux
+# postgresql
+
+# Esto usando el backup en modo plain text
+psql -U postgres -f dump-db_albums_20210612.sql
+
+# mysql
+
+# Usando el metodo por default de dbeaver
+mysql -uroot db_music < dump-db_music_20210612.sql
+
+## Es necesario ver cual es el proceso para agregar la ruta $HOME dentro de los directorios de DBeaver para poder hacer todo desde entorno gráfico
