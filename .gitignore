@@ -1,5 +1,6 @@
 *.jpg
 database.ini
+database_conf.csv
 conn_*
 **/venv/*
 **/__pycache__/*
