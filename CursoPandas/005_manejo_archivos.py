@@ -2,6 +2,12 @@ from icecream import ic
 import pandas as pd
 import numpy as np
 
+"""
+La definición de la ruta de esta manera nos permite utilizarla en diversas
+ocasiones a lo largo del codigo, sobre todo de este en donde estaremos
+creando diferentes tipos de archivo
+
+"""
 dir_pandas = './files/{}'
 
 def run():
@@ -17,19 +23,38 @@ def run():
 
     df = pd.DataFrame(dict_data)
     ic(df)
+    # Instruccion para crear un archivo en formato excel a partir del dataframe
     df.to_excel(dir_pandas.format('test_excel.xlsx'))
+    # Instruccion para crear un archivo en formato excel a partir del dataframe, quitando el indexado del dataframe
     df.to_excel(dir_pandas.format('test_excel_2.xlsx'), index = False)
+    # Instruccion para crear un archivo en formato excel a partir del dataframe, quitando el indexado del dataframe y colocando un nombre a la hoja
     df.to_excel(dir_pandas.format('test_excel_3.xlsx'), index = False, sheet_name = 'Sheet 1')
+    # Instruccion para crear un archivo en formato json a partir del dataframe
     df.to_json(dir_pandas.format('test_json.json'))
+    # Instruccion para crear un archivo en formato pickle a partir del dataframe
     df.to_pickle(dir_pandas.format('test_pickle.pkl'))
+    # Instruccion para crear un archivo en formato pickle a partir del dataframe
     df.to_parquet(dir_pandas.format('test_parquet.parquet'))
-    #df.to_hdf(dir_pandas.format('test_hadoop.hdf'), key = 'data', format = 'table')
+    # Instruccion para crear un archivo en formato hdf a partir del dataframe
+    # Esta línea esta comentada debido a un problema para instalar las librerias necesarias para trabajar con este tipo de archivo
+    #df.to_hdf(dir_pandas.format('test_hadoop.h5'), key = 'data', format = 'table')
+
+    """
+    La lectura de los archivos atiende al tipo y es similar en todos
+    los casos. No existe un archivo correcto o incorrecto, esto depende
+    totalmente del uso y las condiciones con las cuales estaremos
+    trabajando, ya que hay archivos que destacan por el entorno, por la
+    usabilidad, el peso e incluso por la herramienta que los usará como
+    insumo. En esencia, todos brindan la misma información del dataframe,
+    eso es lo verdaderamente importante
+
+    """
     ic(pd.read_excel(dir_pandas.format('test_excel.xlsx')))
     ic(pd.read_excel(dir_pandas.format('test_excel_2.xlsx')))
     ic(pd.read_json(dir_pandas.format('test_json.json')))
     ic(pd.read_pickle(dir_pandas.format('test_pickle.pkl')))
     ic(pd.read_parquet(dir_pandas.format('test_parquet.parquet')))
-    #ic(pd.read_hdf(dir_pandas.format('test_hdf.hdf')))
+    #ic(pd.read_hdf(dir_pandas.format('test_hdf.h5')))
 
 
 if __name__ == '__main__':
