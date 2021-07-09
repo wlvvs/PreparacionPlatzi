@@ -1,0 +1,13 @@
+Estas son las expresiones xpath que se generaron con respecto al analisis del sitio https://www.larepublica.co
+
+De esta expresion se obtienen los links referidos a las noticias adheridas en el home de la página.
+Links = //h2[@class=contains(.,"V_")]/a/@href
+
+De esta expresión, se extraen los títulos correspondientes a las noticias en particular
+Titulo = //div[@class="mb-auto"]/h2/span/text()
+
+De esta expresión, se extraen los resumenes de nota correspondientes a las noticias en particular
+Resumen = //div[@class="lead"]/p/text()
+
+De esta expresión, se extraen los articulos completos correspondientes a las noticias en particular
+Cuerpo = //div[@class="html-content"]/p[not(@class)]/text()
