@@ -1,5 +1,19 @@
 news_sites:
-  eluniversal:
-    url: https://www.eluniversal.com.mx
-  elpais:
-    url: https://elpais.com/mexico/
+  geeks:
+    url: https://geeksroom.com/
+    queries:
+      homepage_article_links: '.title a'
+      article_body: '.thecontent'
+      article_title: '.single-title'
+  xakata:
+    url: https://www.xataka.com.mx/
+    queries:
+      homepage_article_links: '.abstract-title a'
+      article_body: '.article-content'
+      article_title: '.article-header span'
+  microsiervos:
+    url: https://www.microsiervos.com/
+    queries:
+      homepage_article_links: '.title a'
+      article_body: '.articulo'
+      article_title: '.title span'
