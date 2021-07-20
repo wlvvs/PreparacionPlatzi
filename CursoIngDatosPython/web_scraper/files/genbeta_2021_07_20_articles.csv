@@ -1,21 +1,17 @@
-body,title,url
+body,title,url
 "
 
-Seis hombres y tres mujeres han sido detenidos por la Policía Judicial de Portugal por comercializar de forma ilícita servicios de IPTV. Los arrestados vinculan a esta operación, que han llamado Dark Stream, delitos como los de fraude informático, acceso ilegítimo, fraude fiscal, blanqueo de capitales y la asociación ilícita.
+Twitter ha anunciado una versión nueva de TweetDeck que está en modo de prueba en un número limitado de cuentas para ir probado. Hay que recordar que TweetDeck es una aplicación con la que Twitter te ofrece una serie de funciones avanzadas para gestionar mejor la red social: por ejemplo, además de poder tener varias pestañas a la vez con diferentes tipos de contenido, una de sus opciones más notables es la de permitirte programar tuits para que se publiquen automáticamente a determinada hora.
 
-Las fuerzas del orden lusas han llevado a cabo un total de 13 registros, tanto en domicilios como en instalaciones relacionadas con la investigación, y las detenciones indicadas. Una de las personas arrestadas, todas ellas con entre 35 y 55 años, poseía armas de fuego ilegales, según TorrentFreak. Los responsables del servicio se enfrentarían a penas que van desde uno a cinco años de prisión.
+Starting today, we’re rolling out a preview of the new & improved version of TweetDeck to a limited number of accounts, with enhanced functionality that incorporates more of what you see on https://t.co/8FModRv1sl. pic.twitter.com/rX0WhSKgmI— TweetDeck (@TweetDeck) July 20, 2021
+
+Esta nueva vista previa se está probando con un pequeño grupo de personas ""seleccionadas al azar en Estados Unidos, Canadá y Australia"".  Y explican desde Twitter en su cuenta oficial que ""si eres elegible, verás una invitación dentro de TweetDeck para participar"". Sin embargo, hay alternativas para poder acceder.
  
 
 
 
 
-
-Medios locales tildan al servicio de ""Netflix pirata"" por su sofisticación, ya que incluso permitía la conexión simultánea de varios dispositivos, aunque su oferta se limitaba a IPTV
-
-
-La operación se ha llevado a cabo tras dos años de investigación. El servicio en cuestión, que ha sido identificado por medios locales como IPTV do Sogro (traducido como ""la IPTV del suegro""), ofrecía diferentes paquetes con distintos tipos de contenidos y tarifas tanto mensuales como anuales que oscilaban entre los 7 euros al mes o lo 90 euros al año. 
-
-Seis salas de servidores incautadas
+Un vistazo a…
 
 
 
@@ -24,14 +20,15 @@ Seis salas de servidores incautadas
 
 
 
-Las autoridades portuguesas han informado de que se ha realizado la incautación de grandes volúmenes de bienes, entre ellos, el contenido de seis salas de servidores y otros equipos informáticos involucrados en hacer posible el funcionamiento del servicio supuestamente ilegal de IPTV que operaban. También se han incautado cuentas bancarias, además de unos 8.000 euros en efectivo y un coche.
-
-La investigación se inició en 2019, a partir de una denuncia. Los medios locales estiman que esta plataforma ilícita contaba con más de un millar de clientes y habría obtenido unos beneficios de alrededor de 150.000 euros en los últimos dos años. El año que habrían causado ha sido estimado en medio millón de euros aproximadamente y la principal víctima sería un proveedor de telecomunicaciones con derechos de transmisión. ZAP Noticias asegura que sería la compañía NOS.
+ 
 
 
-Los responsables, según 'ZAP Noticias', habrían obtenido unos beneficios de 150.000 euros en los últimos dos años
 
+CÓMO DESCARGAR VÍDEOS de Instagram, Facebook, Twitter o TikTok en tu MÓVIL
 
+Cómo acceder a esta vista previa desde España
+Want access to the NEW TweetDeck?1. Goto https://t.co/gG41sqmisg (desktop)2. Open up the javascript console in your browser 3. Paste: document.cookie = ""tweetdeck_version=beta""4. Reload webpage.h/t @wongmjane— Matt Navarra (@MattNavarra) July 20, 2021
+De acuerdo con Matt Navarro, puedes seguir estos pasos para acceder a la nueva interfaz de TweetDeck y nosotros lo hemos probado. Lo primero, debes acceder a la herramienta, a través de https://t.co/gG41sqmisg  (en tu ordenador). 
 
 
 
@@ -44,20 +41,31 @@ Los responsables, según 'ZAP Noticias', habrían obtenido unos beneficios de 15
 
 En Genbeta
 
-Las cifras de uso de IPTV que quiere enterrar la UE: más de 2 millones de españoles ven emisiones no autorizadas vía Kodi o VLC
+Stack es como un Tweetdeck para todas tus redes sociales, una app que envidiarle a los usuarios de macOS
 
 
 
 
-Este periódico tilda al servicio de ""Netflix pirata"" por su sofisticación, ya que incluso permitía la conexión simultánea de varios dispositivos. No obstante, el contenido no eran series o películas bajo demanda, sino IPTV como decíamos. Estaría ofreciendo, según el medio, la misma oferta de canales tanto portugueses como internacionales de los que dispone la operadora NOS en sus paquetes televisivos.
-
-Portugal participó en el desmantelamiento de Mobdro el pasado mes de marzo junto con las autoridades españolas y andorranas, aunque como informa TorrentFreak las operaciones de este tipo en el país vecino son relativamente escasas. Recientemente, en España, también fueron detenidas varias personas por vender de forma ilícita servicios IPTV y televisión por satélite.
+Tras esto, en tu navegador debes abrir la consola Javascript (por ejemplo, en Chrome debes pulsar sobre Control+Shift+J si usas un PC con Windows o Command+Option+J si usas un Mac). Luego introduce: document.cookie = ""tweetdeck_version=beta"" y finalmente recarga la página. Tras esto, TweetDeck te preguntará si quieres importar tus antiguas columnas. Aceptes o no, a continuación viene un tour por las novedades de esta herramienta. 
 
 
 
 
 
 
+
+
+Podrás ver que la forma en que se ven las columnas no han cambiado mucho, pero el diseño de otras funciones sí muestra una vista diferente.  En la columna de la izquierda un botón te ofrece ordenar varios tipos de contenido. 
+
+En general,** se parece a la vista estándar de Twitter tradicional**. Además integra nuevas funciones de búsqueda avanzada, nuevos tipos de columnas y una nueva forma de agrupar las columnas en espacios de trabajo. Cabe recordar que hace unos meses se filtró que Twitter podría llegar a cobrar por el uso de TweetDeck. La publicidad directa es su principal fuente de ingresos y en Twitter llevan tiempo considerando otros modelos de negocio para aumentar sus ganancias.
+
+
+
+
+
+
+
+Imagen capturada por Matt Navarro
 
 
 
@@ -69,7 +77,7 @@ Portugal participó en el desmantelamiento de Mobdro el pasado mes de marzo junt
 
     Compartir
     
-           Detenidas 9 personas por comercializar listas IPTV ilícitamente: ofrecían diferentes paquetes y tarifas desde Portugal
+           TweetDeck prueba una nueva interfaz y nuevas funciones: así puedes probarlas aunque Twitter no te haya elegido para ello
          
 
 
@@ -82,97 +90,19 @@ E-mail
 
 Temas
 
+Redes sociales y comunidades
 Actualidad
 
 
-iptv
-servicio
-portugal
-
-
-
-
-","
-         Detenidas 9 personas por comercializar listas IPTV ilícitamente: ofrecían diferentes paquetes y tarifas desde Portugal   ",https://www.genbeta.com/actualidad/detenidas-9-personas-comercializar-ilicitamente-servicios-iptv-ofrecian-diferentes-paquetes-tarifas-portugal
-"
-
-Desde que la pandemia comenzó, las videollamadas en general, y en WhatsApp en particular, han sido una de las tecnologías más usadas para comunicarnos, hasta el punto de haber desarrollado un alto cansancio a ellas.
-
-WhatsApp, como otras, no estaba preparada para lo que venía, por lo que primero aumentó el número de participantes a ocho y más tarde a muchos más gracias a las videollamadas de Facebook Messenger. Ahora, la compañía ha anunciado que hoy lanza otra característica muy esperada, la de poder unirte a una llamada cuyo comienzo te has perdido.
- 
-
-
-Es muy común que te llamen y no puedas atender la llamada. Hasta ahora, tenías que pedir que te añadieran más tarde, porque si tocabas el enlace de llamada grupal, volvías a llamar a todos los miembros de la llamada, algo un tanto incómodo y que cortaba conversaciones. Veamos cómo se hace.
-
-
-
-
-
-
-
-
-
-Nueva interfaz para unirte a llamadas en curso
-
-
-
-
-
-
-
-
-En un vídeo, WhatsApp ha mostrado que la vista de Llamadas, ahora integra información gráfica que muestra que los participantes se encuentran en una llamada de voz o una videollamada.
-
-En ese momento, cuando aparezca la interfaz de que hay una llamada en curso, podremos unirnos simplemente tocando sobre la conversación. En este sentido, WhatsApp lo indica: ""Toca para unirte"".
-
-
-
-
-
-
-
-
-
-
-En Genbeta
-
-Ocho trucos para ocultarte al máximo en WhatsApp y reforzar la privacidad de tu perfil
-
-
-
-
-No hay que confundir la pestaña de Llamadas con la de Chats, pues podremos seguir escribiendo en un grupo sin entrar en la llamada si vamos a la segunda. Es decir, WhatsApp no te obliga a unirte a una llamada en ningún caso, y se agradece mucho esta nueva opción.
-
-
-
-
-
-
-    Compartir
-    
-           Cómo unirte a llamadas y videollamadas grupales de WhatsApp que han comenzado sin ti
-         
-
-
-Facebook
 Twitter
-Flipboard
-E-mail
-
-
-
-Temas
-
-Mensajería instantánea
-
-
-WhatsApp
+Tweetdeck
+Twitter Analytics
 
 
 
 
 ","
-         Cómo unirte a llamadas y videollamadas grupales de WhatsApp que han comenzado sin ti   ",https://www.genbeta.com/mensajeria-instantanea/como-unirte-a-llamadas-videollamadas-grupales-whatsapp-que-han-comenzado-ti
+         TweetDeck prueba una nueva interfaz y nuevas funciones: así puedes probarlas aunque Twitter no te haya elegido para ello   ",https://www.genbeta.com/actualidad/tweetdeck-prueba-nueva-interfaz-nuevas-funciones-asi-puedes-probarlas-twitter-no-te-haya-elegido-para-ello
 "
 
 Hoy se ha presentado HalloApp, una aplicación al estilo de WhatsApp, creada por dos antiguos trabajadores de esta herramienta y que también usa el número de teléfono para conectar con amigos, familiares y colegas con los que ya estás conectado a través de tu agenda. Otra empresa más que compite con Telegram, Signal, Line o Viber. 
@@ -255,7 +185,7 @@ Telegram
 
 
 ","
-         Dos antiguos trabajadores de WhatsApp lanzan un competidor que apuesta por la privacidad: así es HalloApp   ",https://www.genbeta.com/actualidad/dos-antiguos-trabajadores-whatsapp-lanzan-competidor-que-apuesta-privacidad-asi-halloapp
+         Dos antiguos trabajadores de WhatsApp lanzan un competidor que apuesta por la privacidad: así es HalloApp   ",https://www.genbeta.com/actualidad/dos-antiguos-trabajadores-whatsapp-lanzan-competidor-que-apuesta-privacidad-asi-halloapp
 "
 
 Hace unos meses te hablábamos, de pasada, de una distribución Linux denominada CBL-Mariner, que iba a ser usada por Microsoft para proveer a WSL2 del servidor gráfico necesario para mostrar aplicaciones gráficas Linux en nuestro escritorio Linux. CBL-Mariner ya existía previamente, y venía siendo usada por Microsoft de manera interna como parte de su infraestructura en la nube.
@@ -395,7 +325,7 @@ instalación
 
 
 ","
-         Así puedes descargarte e instalar CBL-Mariner, la distribución Linux creada por… Microsoft   ",https://www.genbeta.com/linux/asi-puedes-descargarte-e-instalar-cbl-mariner-distribucion-linux-creada-microsoft
+         Así puedes descargarte e instalar CBL-Mariner, la distribución Linux creada por… Microsoft   ",https://www.genbeta.com/linux/asi-puedes-descargarte-e-instalar-cbl-mariner-distribucion-linux-creada-microsoft
 "
 
 Microsoft presentó Windows 11 como un sistema ""hecho para jugar"". Entre sus grandes novedades estaban Auto HDR y DirecStorage, una tecnología que la compañía estrenó en las nuevas Xbox y que reduce enormemente los tiempos de carga.
@@ -471,373 +401,7 @@ Windows 11
 
 
 ","
-         Windows 10 también tendrá los tiempos de carga mejorados de Windows 11 y las nuevas Xbox: el sistema recibirá DirectStorage   ",https://www.genbeta.com/windows/windows-10-tambien-tendra-mejores-funciones-gaming-windows-11-nuevas-xbox-sistema-recibira-directstorage
-"
-
-Red Hat ha anunciado que su software Red Hat Enterprise Linux (RHEL), su oferta en la nube, ofrecerá una opción de bajo costo para organizaciones y entidades relacionadas con la investigación y el mundo académico en general. 
-Con la novedad anunciada, estas organizaciones podrán utilizar RHEL no sólo para la investigación o las clases, sino que tendrán a su disponibilidad toda la gama de usos de Linux. Por ejemplo, para ejecutar servidores web o un entorno de computación de alto rendimiento (HPC). 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-En Genbeta
-
-Qué es Linux y cómo funciona
-
-
-
-
-De acuerdo con Red Hat ""reconocemos que las organizaciones académicas y de investigación son miembros clave de la comunidad de código abierto, ayudando a impulsar la innovación abierta, así como a educar a la próxima generación de líderes de TI. Para la empresa es una forma de llegar a más personas y a nuevas generaciones. 
-
-Según la compañía, estas suscripciones académicas ampliadas no están destinadas a las agencias gubernamentales estadounidenses ni a las internacionales. 
-
-Otras opciones que se esperan para el futuro
-
-
-
-
-
-
-
-
-De cara al futuro, se espera que Red Hat ofrezca otros paquetes RHEL baratos o incluso gratuitos. Red Hat ya ha estado ofreciendo RHEL gratuito a pequeños equipos de desarrollo y empresas de código abierto sin ánimo de lucro. 
-
-Hay que recordar que a comienzos de año Red Hat anunciaba que Red Hat Enterprise Linux será gratuito para equipos de desarrollo y cargas de trabajo en producción con un máximo de 16 servidores dentro del programa ampliado Red Hat Developer.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Compartir
-    
-           Red Hat Enterprise Linux lanza una versión a bajo costo para llegar a más público de sectores de investigación y académico
-         
-
-
-Facebook
-Twitter
-Flipboard
-E-mail
-
-
-
-Temas
-
-Actualidad
-Linux
-
-
-Red Hat
-
-
-
-
-","
-         Red Hat Enterprise Linux lanza una versión a bajo costo para llegar a más público de sectores de investigación y académico   ",https://www.genbeta.com/actualidad/red-hat-enterprise-linux-lanza-version-a-costo-para-llegar-a-publico-sectores-investigacion-academico
-"
-
-Twitter ha anunciado una versión nueva de TweetDeck que está en modo de prueba en un número limitado de cuentas para ir probado. Hay que recordar que TweetDeck es una aplicación con la que Twitter te ofrece una serie de funciones avanzadas para gestionar mejor la red social: por ejemplo, además de poder tener varias pestañas a la vez con diferentes tipos de contenido, una de sus opciones más notables es la de permitirte programar tuits para que se publiquen automáticamente a determinada hora.
-
-Starting today, we’re rolling out a preview of the new & improved version of TweetDeck to a limited number of accounts, with enhanced functionality that incorporates more of what you see on https://t.co/8FModRv1sl. pic.twitter.com/rX0WhSKgmI— TweetDeck (@TweetDeck) July 20, 2021
-
-Esta nueva vista previa se está probando con un pequeño grupo de personas ""seleccionadas al azar en Estados Unidos, Canadá y Australia"".  Y explican desde Twitter en su cuenta oficial que ""si eres elegible, verás una invitación dentro de TweetDeck para participar"". Sin embargo, hay alternativas para poder acceder.
- 
-
-
-
-
-Un vistazo a…
-
-
-
-
-
-
-
-
- 
-
-
-
-CÓMO DESCARGAR VÍDEOS de Instagram, Facebook, Twitter o TikTok en tu MÓVIL
-
-Cómo acceder a esta vista previa desde España
-Want access to the NEW TweetDeck?1. Goto https://t.co/gG41sqmisg (desktop)2. Open up the javascript console in your browser 3. Paste: document.cookie = ""tweetdeck_version=beta""4. Reload webpage.h/t @wongmjane— Matt Navarra (@MattNavarra) July 20, 2021
-De acuerdo con Matt Navarro, puedes seguir estos pasos para acceder a la nueva interfaz de TweetDeck y nosotros lo hemos probado. Lo primero, debes acceder a la herramienta, a través de https://t.co/gG41sqmisg  (en tu ordenador). 
-
-
-
-
-
-
-
-
-
-
-En Genbeta
-
-Stack es como un Tweetdeck para todas tus redes sociales, una app que envidiarle a los usuarios de macOS
-
-
-
-
-Tras esto, en tu navegador debes abrir la consola Javascript (por ejemplo, en Chrome debes pulsar sobre Control+Shift+J si usas un PC con Windows o Command+Option+J si usas un Mac). Luego introduce: document.cookie = ""tweetdeck_version=beta"" y finalmente recarga la página. Tras esto, TweetDeck te preguntará si quieres importar tus antiguas columnas. Aceptes o no, a continuación viene un tour por las novedades de esta herramienta. 
-
-
-
-
-
-
-
-
-Podrás ver que la forma en que se ven las columnas no han cambiado mucho, pero el diseño de otras funciones sí muestra una vista diferente.  En la columna de la izquierda un botón te ofrece ordenar varios tipos de contenido. 
-
-En general,** se parece a la vista estándar de Twitter tradicional**. Además integra nuevas funciones de búsqueda avanzada, nuevos tipos de columnas y una nueva forma de agrupar las columnas en espacios de trabajo. Cabe recordar que hace unos meses se filtró que Twitter podría llegar a cobrar por el uso de TweetDeck. La publicidad directa es su principal fuente de ingresos y en Twitter llevan tiempo considerando otros modelos de negocio para aumentar sus ganancias.
-
-
-
-
-
-
-
-Imagen capturada por Matt Navarro
-
-
-
-
-
-
-
-
-
-    Compartir
-    
-           TweetDeck prueba una nueva interfaz y nuevas funciones: así puedes probarlas aunque Twitter no te haya elegido para ello
-         
-
-
-Facebook
-Twitter
-Flipboard
-E-mail
-
-
-
-Temas
-
-Redes sociales y comunidades
-Actualidad
-
-
-Twitter
-Tweetdeck
-Twitter Analytics
-
-
-
-
-","
-         TweetDeck prueba una nueva interfaz y nuevas funciones: así puedes probarlas aunque Twitter no te haya elegido para ello   ",https://www.genbeta.com/actualidad/tweetdeck-prueba-nueva-interfaz-nuevas-funciones-asi-puedes-probarlas-twitter-no-te-haya-elegido-para-ello
-"
-
-Cainiao es el nombre de la empresa logística subsidiaria del grupo Alibaba encargada del envío de productos de AliExpress. Una compañía fundada en 2013 que, con el paso de los años y la inyección de 15.000 millones de dólares en 2018, se está convirtiendo en una parte fundamental de la estrategia del grupo empresarial chino.
-
-Un gigante de la logística impulsado por la tecnología con un objetivo próximo sumamente ambicioso: ser un temible rival para Amazon Prime y otros servicios similares. ¿Cómo? Enviando cualquier producto a cualquier parte de planeta en solo 72 horas y por 3 dólares al mes. Lo desvela un reportaje del Wall Street Journal.
- 
-
-
-
-
-
-El Amazon Prime de AliExpress tiene el objetivo de lograr envíos a cualquier parte del mundo en 72 horas por una cuota de 3 dólares al mes
-
-
-El futuro de AliExpress pasa por una logística potente y al nivel de Amazon
-
-
-
-
-
-
-
-
-Amazon le debe parte de su éxito a lo logística tan efectiva que ha logrado. Actualmente, el gigante del comercio electrónico posee una flota de transporte propia con más de 40.000 camiones y 75 aviones, además de acuerdo con diferentes operadores para lograr rápidos envíos en los más de veinte países en los que opera.
-
-Gracias a ello, los consumidores pueden pedir un producto un día por la mañana y recibirlo no ya el día siguiente, sino esa misma jornada por la tarde. Amazon Prime, que en el caso de España es de 36 euros al año, ofrece como principal atractivo la tarifa plana para envíos. La comodidad de pedir algo y recibirlo en cuestión de horas es indudable y se valora; así se ha convertido su fundador, Jeff Bezos, es una de las personas más ricas del planeta con permiso de Elon Musk.
-
-
-Cainiao, gracias a su fuerte apuesta tecnológica y la alianza con 3.000 empresas logísticas, busca lograr envíos rápidos de productos de AliExpress a todo el mundo
-
-
-AliExpress, con Cainiao, busca lograr algo similar. Pese a que en países como España ya están disponible envíos rápidos de ciertos productos, aquellos que generalmente ya se encuentran en almacenes locales, la idea es evolucionar esa rapidez en el envío y extenderla a todo el mundo.
-
-Continuando con su alianza con más de 3.000 socios del sector del transporte y la logística, tanto aerolíneas como servicios postales, AliExpress con Cainiao pretende garantizar la entrega de cualquier paquete en cualquier parte del mundo en 72 horas por 3 dólares al mes.
-
-
-
-
-
-
-
-
-
-
-En Genbeta
-
-Así han cambiado Aliexpress y otras tiendas chinas con el nuevo IVA obligatorio (del que no avisan hasta justo antes de comprar)
-
-
-
-
-
-
-La suscripción a AliExpress para envíos gratis en 72 horas no tiene fecha, pero es previsible que pueda rivalizar con Amazon Prime en mercados como el español
-
-
-Los 2,55 euros al mes que costaría la suscripción a AliExpress al cambio en el momento de publicar esta pieza, resultaría algo inferior al de Amazon Prime para los consumidores ubicados en territorio español y notablemente más elevado respecto al que pagan, por ejemplo, en Reino Unido, que equivale a unos 92 euros anuales, unos 7,6 euros al mes.
-
-Cainiao, que como Amazon ha apostado fuertemente por la automatización en sus centros logísticos para agilizar de forma increíble el procesamiento de las mercancías, puede plantar cara al gran exponente del comercio minorista mundial si se materializa una suscripción a AliExpress como la planteada. Todo ello incluso con la afectación que provoca el nuevo paquete IVA de la Unión Europea que obliga a aplicar esta tasa incluso a envíos cuyo valor no supere los 150 euros. Sin fechas de lanzamiento de la posible suscripción en el horizonte, falta aguardar próximos movimientos.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Compartir
-    
-           El Amazon Prime de AliExpress es un rival temible: plantea envíos a todo el mundo en 72 horas por 3 dólares al mes
-         
-
-
-Facebook
-Twitter
-Flipboard
-E-mail
-
-
-
-Temas
-
-Actualidad
-
-
-envíos
-Amazon Prime
-AliExpress
-
-
-
-
-","
-         El Amazon Prime de AliExpress es un rival temible: plantea envíos a todo el mundo en 72 horas por 3 dólares al mes   ",https://www.genbeta.com/actualidad/amazon-prime-aliexpress-rival-temible-plantea-envios-a-todo-mundo-72-horas-3-dolares-al-mes
-"
-
-Hoy es un día histórico para Blue Origin, Jeff Bezos, el ya ex-CEO de Amazon, su hermano, Mark Bezos, Wally Funk, y Oliver Daemen. Estas cuatro personas se embarcarán en la decimosexta misión de la nave reutilizable New Shepard, aunque será la primera en contar con tripulación a bordo.
-
-Vamos a contarte cómo ver el histórico vuelo en directo a través del medio que la compañía ha habilitado para ello, para que no te pierdas nada de este día tan importante para Bezos y Wally Funk, que se convertirá en la persona más mayor en ir al espacio a sus 82 años.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-Cómo seguir en directo el primer ""vuelo humano"" de la New Shepard
-
-
-
-
-
-
-
-Según Blue Origin, la New Shepard despegará a las 15.00 hora peninsular española. Sin embargo el streaming de la compañía, que puedes ver desde YouTube, además de en el vídeo incrustado aquí en Genbeta, indica que desde las 13.30 habrá emisión.
-
-Es probable que tengan preparado algo a modo de previa para llenar ese hueco de 90 minutos para el despegue. Estas son las horas de lanzamiento para los distintos países de habla hispana:
-
-
-España: 15:00 horas.
-México: 08:00 horas.
-Ecuador, Colombia: 08:00 horas.
-Venezuela: 09:00 horas.
-Argentina: 10:00 horas.
-Chile y Cuba: 09:00 horas.
-
-La misión consistirá en la realización de un vuelo parabólico que llegará a más de 100 kilómetros de altura sobre el lugar de despegue. Es ahí donde se considera internacionalmente que comienza el Espacio. El otro magnate que fue al espacio, Richard Branson, de Virgin Galactic, solamente alcanzó 86 kilómetros de altura, algo que desde Blue Origin no consideran salir de la Tierra, pues la Línea de Kármán marca esos 100 kilómetros de altura.
-
-
-
-
-
-
-
-
-La nave despegará desde ""una ubicación remota en el desierto al oeste de Texas"", y el vuelo durará unos 11 minutos. Una vez alcancen la altura máxima, la tripulación tendrá unas vistas magníficas de la Tierra gracias a las enormes ventanas de la nave.
-
-
-
-
-
-
-    Compartir
-    
-           Cómo seguir en directo el histórico primer vuelo tripulado de Blue Origin con Jeff Bezos a bordo
-         
-
-
-Facebook
-Twitter
-Flipboard
-E-mail
-
-
-
-Temas
-
-Actualidad
-
-
-espacio
-directo
-
-
-
-
-","
-         Cómo seguir en directo el histórico primer vuelo tripulado de Blue Origin con Jeff Bezos a bordo   ",https://www.genbeta.com/actualidad/como-seguir-directo-historico-primer-vuelo-tripulado-blue-origin-jeff-bezos-a-bordo
+         Windows 10 también tendrá los tiempos de carga mejorados de Windows 11 y las nuevas Xbox: el sistema recibirá DirectStorage   ",https://www.genbeta.com/windows/windows-10-tambien-tendra-mejores-funciones-gaming-windows-11-nuevas-xbox-sistema-recibira-directstorage
 "
 
 Las naciones occidentales (a través de los gobiernos estadounidense y británico, de la Comisión Europea y de la propia OTAN) han acusado conjuntamente a China de ser responsable de un 'hackeo' masivo de Exchange —el servidor de email desarrollado por Microsoft—, así como de colaborar con cibercriminales para impulsar ciberataques, en su mayor parte basados en ransomware.
@@ -921,234 +485,14 @@ ciberespionaje
 
 
 ","
-         Las potencias occidentales acusan a China de contratar cibercriminales y le atribuyen varios ataques, como el de Microsoft Exchange   ",https://www.genbeta.com/actualidad/potencias-occidentales-acusan-a-china-contratar-cibercriminales-le-atribuyen-varios-ataques-como-microsoft-exchange
+         Las potencias occidentales acusan a China de contratar cibercriminales y le atribuyen varios ataques, como el de Microsoft Exchange   ",https://www.genbeta.com/actualidad/potencias-occidentales-acusan-a-china-contratar-cibercriminales-le-atribuyen-varios-ataques-como-microsoft-exchange
 "
 
-Email Protection es la nueva función que DuckDuckGo acaba de lanzar en versión beta. Un servicio en línea con la lucha en favor de la privacidad de la compañía que pretende salvaguardar nuestro correo electrónico de rastreadores y otra amenazas. Usemos el servicio que usemos, la idea es que nadie espíe nuestra bandeja de entrada.
-
-Mediante direcciones de correo electrónico @duck.com gratuitas, la nueva funcionalidad de los responsables del navegador centrado en la privacidad pretende limpiar los correos electrónicos que recibamos de rastreadores y entregárnoslos, ya sin rastro de elementos dedicados a recopilar información, en nuestra dirección de correo habitual. Y con la promesa de no guardar los correos.
+Red Hat ha anunciado que su software Red Hat Enterprise Linux (RHEL), su oferta en la nube, ofrecerá una opción de bajo costo para organizaciones y entidades relacionadas con la investigación y el mundo académico en general. 
+Con la novedad anunciada, estas organizaciones podrán utilizar RHEL no sólo para la investigación o las clases, sino que tendrán a su disponibilidad toda la gama de usos de Linux. Por ejemplo, para ejecutar servidores web o un entorno de computación de alto rendimiento (HPC). 
  
 
 
-
-
-
-El nuevo servicio de DuckDuckGo elimina los rastreadores de correo electrónico y protege la privacidad de nuestra dirección de correo electrónico personal sin necesidad de cambiarla
-
-
-""Te sorprenderá saber que el 70 % de los correos electrónicos contienen rastreadores que pueden detectar cuándo has abierto un mensaje, dónde estabas cuando lo abriste y qué dispositivo estabas utilizando"", dicen desde DuckDuckGo, cuyo buscador superó por primera vez las 100 millones de búsquedas diarias hace pocos meses.
-
-
-
-Un vistazo a…
-
-
-
-
-
-
-
-
- 
-
-
-
-Cómo mejorar la SEGURIDAD EN INTERNET: VPN, DNS y páginas con HTTPS
-
-Direcciones de correo @duck.com como escudo
-
-
-
-
-
-
-
-Los correos reenviados incluirán una barra en la que se indican los rastreadores eliminados por Email Protection de DuckDuckGo.
-
-
-
-El funcionamiento de Email Protection consiste en proporcionarnos una dirección de correo electrónica gratuita @duck.com a través de la cual recibiremos correo electrónicos potencialmente problemáticos que serán analizados en busca de rastreadores, limpiados en caso de que los tengan y, finalmente, reenviados a nuestra dirección habitual de correo electrónico.
-
-Lo mismo sucederá con las direcciones de reenvío únicas y desechables que podremos generar desde el navegador móvil de DuckDuckGo o mediante las extensiones para navegadores de escritorio (no exentas de problemas recientemente, valga apuntarlo). Estas últimas será las que preferiblemente entregaremos en servicios sospechosos o que nos soliciten una dirección para pruebas gratuitas, por ejemplo. Direcciones distintas para evitar problemas, al igual que usamos contraseñas distintas por lo mismo.
-
-
-Con este servicio de DuckDuckGo obtendremos una cuenta @duck.com personal y principal, pudiendo crear además direcciones desechables para remitentes dudosos o en los que no confiemos
-
-
-La otra dirección, a análoga a la nuestra dirección personal habitual, la utilizaremos como si se tratase de nuestro correo electrónico personal, con amigos, conocidos y servicios de confianza.
-
-Ambas, como decíamos, servirán para eliminar rastreadores ocultos de los correos electrónicos y reenviarlos a nuestra bandeja de siempre. El enfoque es evitar que los usuarios, como puede suceder con servicios como ProtonMail, deban renunciar a su dirección habitual completamente. O cambiar de aplicación utilizada para leer los mensajes o incluso ocultar las imágenes por precaución.
-
-
-
-
-
-
-
-
-
-
-En Xataka
-
-Las 12 extensiones clave en Chrome y Firefox para la privacidad y seguridad en internet
-
-
-
-
-
-
-Email Protection sirve para que nuestra cuenta principal, básica y habitual quede a salvo de miradas indiscretas
-
-
-Por eso Email Protection funciona como un puente. Pese a que debemos empezar a dar la dirección con su dominio, esta sirve para que nuestra cuenta principal, básica y habitual quede a salvo de miradas indiscretas. Y todo con la promesa de que los correos recibidos no se guardan. ""Cuando recibimos un correo electrónico, eliminamos inmediatamente los rastreadores del mismo y te lo reenviamos, sin guardarlo nunca en nuestros sistemas"", explican. El usuario, además, podrá conocer cuáles eran a través de una pequeña barra que el servicio inserta en la parte superior del correo electrónico.
-
-Por otro lado, resulta importante señalar que aunque será posible responder a un correo recibido en una dirección dirección @duck.com, no se podrá utilizar para enviar primer correo, explican en The Verge, ""lo que reduce la utilidad de la herramienta para blanquear el acoso"".
-
-Para probar la versión beta de Email Protection de DuckDuckGo, por ahora, debemos apuntarnos a la lista de espera mediante la aplicación móvil del servicio disponible para Android e iOS. Abriremos Ajustes > Funciones beta > Email Protection y haremos clic en ""Únete a la lista de espera privada"". No tendremos que compartir ninguna información personal para unirnos ya que la aplicación asegura nuestro lugar en la lista mediante una marca de tiempo que existe únicamente en nuestro dispositivo.
-
-
-
-
-
-
-    Compartir
-    
-           DuckDuckGo lanza un servicio de protección del correo electrónico que bloquear rastreadores y ocultar la dirección
-         
-
-
-Facebook
-Twitter
-Flipboard
-E-mail
-
-
-
-Temas
-
-Correo
-Seguridad
-
-
-Correo
-Privacidad
-dirección
-DuckDuckGo
-
-
-
-
-","
-         DuckDuckGo lanza un servicio de protección del correo electrónico que bloquear rastreadores y ocultar la dirección   ",https://www.genbeta.com/correo/duckduckgo-lanza-servicio-proteccion-correo-electronico-que-bloquear-rastreadores-ocultar-direccion
-"
-
-Si por algo destacan los nuevos Mac con chip M1 de Apple silicon es por el silencio. Gracias a su altísima eficiencia y a ser una arquitectura de bajo consumo basada en el proceso litográfico de 5nm de TSMC, el primer SoC de esta familia se calienta muy poco en comparación a los procesadores Intel de los equipos a los que sustituye.
-
-En este sentido, el MacBook Air ni siquiera necesita ventiladores para refrigerarse, mientras que en otros modelos que requieren más rendimiento sostenido como los Pro o los iMac de 24"", Apple sí ha optado por incluirlos. Aun así, son muy raramente audibles en usos en los que antes un equipo Intel sí hacía mucho ruido.
- 
-
-
-Echando de menos estos ruidos, Guilherme Rambo, un conocido desarrollador de iOS y macOS, conocido por descubrir pistas sobre funciones futuras de los sistemas, ha lanzado FanFan, una aplicación que lo único que hace es activar un sonido de ventilador en un Mac.
-
-Una aplicación que trae lo que siempre quisiste desterrar
-
-
-
-
-
-
-
-
-Los sonidos de ventiladores no son precisamente agradables, a diferencia del crepitar de una hoguerra o del choque de las gotas de la lluvia con una ventana. De hecho, históricamente, siempre ha sido uno de esos sonidos informáticos que se ha querido eliminar, eligiendo ventiladores más silenciosos y componentes que se calentaran menos.
-
-En la descripción que podemos ver la primera vez que abrimos FanFan, leemos que se ejecuta en la barra de menú del sistema, y que simula ""el sonido calmante (relajante) de un ventilador de ordenador"", dependiendo de la carga de recursos del sistema. Es decir, que a más uso de CPU, debería sonar más fuerte o con mayor intensidad.
-
-
-
-
-
-
-
-
-
-
-En Xataka
-
-La potencia, el consumo y la eficiencia del procesador Apple M1, a prueba: un antes y un después en números y en uso real
-
-
-
-
-En nuestro caso, el sonido no ha cambiado dependiendo de la carga de CPU de un MacBook Air M1, y ha sido siempre bastante intenso. Más allá de la anécdota, relajar me ha relajado poco.
-
-Descarga | FanFan
-
-
-
-
-
-
-    Compartir
-    
-           Los Mac con M1 son tan silenciosos que han creado una app para simular el ruido de los ventiladores
-         
-
-
-Facebook
-Twitter
-Flipboard
-E-mail
-
-
-
-Temas
-
-Mac
-
-
-macbook air
-
-
-
-
-","
-         Los Mac con M1 son tan silenciosos que han creado una app para simular el ruido de los ventiladores   ",https://www.genbeta.com/mac/mac-m1-silenciosos-que-han-creado-app-para-simular-ruido-ventiladores
-"
-
-A todos en algún momento nos hace cierta gracia la cantidad de problemas que suelen dar las impresoras, unos dispositivos tan temperamentales que son famosos en hogares y empresas por a veces hacer lo que les da la gana. Pero, los problemas relacionados con impresoras que están lloviendo en 2021, son bastante más peligrosos. 
-
-La más reciente es una vulnerabilidad que tiene nada más y nada menos que 16 años, y que acaba de ser descubierta por SentinelOne. Este fallo afecta a los controladores de impresoras HP, Xerox y Samsung, y permite a un atacante obtener privilegios de administrador en los sistemas que estén usando el software vulnerable. 
- 
-
-
-Una vulnerabilidad de severidad alta para acompañar a PrintNightmare
-
-
-
-
-
-
-
-
-La vulnerabilidad identificada como CVE-2021-3438 existe desde 2005 y afecta cientos de millones de dispositivos y usuarios en todo el mundo. Se trata de un fallo de desbordamiento de búfer en el driver SSPORT.SYS de modelos específicos de impresoras, que puede llevar a una escalada local de privilegios de usuario. 
-
-Según los investigadores, el controlador o driver problemático, se instala automáticamente con el software de la impresora y será cargado por Windows tras cada reinicio del sistema. Esto permite que el bug pueda ser explotado cuando la impresora ni siquiera está conectada al ordenador. 
-
-
-Si la vulnerabilidad del controlador es explotada con éxito, podría permitir a los atacantes instalar programas, ver, cambiar, cifrar o eliminar datos, o crear nuevas cuentas con privilegios elevados de usuario.
-
-
-
-
-
-
-
-
-
-
-La culpa técnicamente no es de la propia impresora, sino específicamente del código necesario para que funcione. La lista de modelos HP vulnerables puede ser encontrara en el aviso de seguridad de la empresa, al igual que en este boletín de seguridad de Xerox que incluyen enlaces para los parches de seguridad disponibles. 
-
-Al hablar de esta vulnerabilidad es imposible no mencionar el caso PrintNightmare,  una vulnerabilidad crítica en Windows que afecta al servicio de Cola de Impresión, que está siendo explotado activamente, y ha recibido parches accidentados que no terminan de solucionar el problema del todo. 
 
 
 
@@ -1161,14 +505,36 @@ Al hablar de esta vulnerabilidad es imposible no mencionar el caso PrintNightmar
 
 En Genbeta
 
-Descarga gratis para imprimir estos espectaculares mapas de Madrid, Barcelona, Valencia o Málaga o haz el de tu ciudad
+Qué es Linux y cómo funciona
 
 
 
 
-Tras salir al descubierto los problemas con PrintNightmare, varios investigadores se han dedicado a examinar más de cerca las APIs de impresión de Windows y han terminado encontrando más vulnerabilidades, incluyendo un nuevo bug zero day hace apenas un par de días, que permite a un atacante obtener privilegios elevados de Sistema a través de un servidor remoto de impresión. Ninguno de los fallos tiene solución definitiva de momento. 
+De acuerdo con Red Hat ""reconocemos que las organizaciones académicas y de investigación son miembros clave de la comunidad de código abierto, ayudando a impulsar la innovación abierta, así como a educar a la próxima generación de líderes de TI. Para la empresa es una forma de llegar a más personas y a nuevas generaciones. 
 
-Imagen de portada | Zhivko Terziivanov
+Según la compañía, estas suscripciones académicas ampliadas no están destinadas a las agencias gubernamentales estadounidenses ni a las internacionales. 
+
+Otras opciones que se esperan para el futuro
+
+
+
+
+
+
+
+
+De cara al futuro, se espera que Red Hat ofrezca otros paquetes RHEL baratos o incluso gratuitos. Red Hat ya ha estado ofreciendo RHEL gratuito a pequeños equipos de desarrollo y empresas de código abierto sin ánimo de lucro. 
+
+Hay que recordar que a comienzos de año Red Hat anunciaba que Red Hat Enterprise Linux será gratuito para equipos de desarrollo y cargas de trabajo en producción con un máximo de 16 servidores dentro del programa ampliado Red Hat Developer.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1177,7 +543,7 @@ Imagen de portada | Zhivko Terziivanov
 
     Compartir
     
-           El ataque de las impresoras: tras PrintNightmare en Windows, ahora tenemos un bug de 16 años en drivers de HP, Xerox y Samsung
+           Red Hat Enterprise Linux lanza una versión a bajo costo para llegar a más público de sectores de investigación y académico
          
 
 
@@ -1191,18 +557,16 @@ E-mail
 Temas
 
 Actualidad
-Seguridad
+Linux
 
 
-bug
-Vulnerabilidad
-impresoras
+Red Hat
 
 
 
 
 ","
-         El ataque de las impresoras: tras PrintNightmare en Windows, ahora tenemos un bug de 16 años en drivers de HP, Xerox y Samsung   ",https://www.genbeta.com/seguridad/ataque-impresoras-printnightmare-windows-ahora-tenemos-bug-16-anos-drivers-hp-xerox-samsung
+         Red Hat Enterprise Linux lanza una versión a bajo costo para llegar a más público de sectores de investigación y académico   ",https://www.genbeta.com/actualidad/red-hat-enterprise-linux-lanza-version-a-costo-para-llegar-a-publico-sectores-investigacion-academico
 "
 
 El formato PDF es omnipresente en nuestro día a día digital; usarlo no tiene, por tanto, nada de extraño. Pero, ¿y usarlo como modo de protesta contra el estado de la actual World Wide Web? Ah, eso es otra cosa.
@@ -1347,7 +711,277 @@ WWW
 
 
 ","
-         Hay quien cree que las webs basadas en PDFs son la alternativa a la actual WWW, echada a perder por culpa de la publicidad online   ",https://www.genbeta.com/web-20/hay-quien-cree-que-webs-basadas-pdfs-alternativa-a-actual-www-echada-a-perder-culpa-publicidad-online
+         Hay quien cree que las webs basadas en PDFs son la alternativa a la actual WWW, echada a perder por culpa de la publicidad online   ",https://www.genbeta.com/web-20/hay-quien-cree-que-webs-basadas-pdfs-alternativa-a-actual-www-echada-a-perder-culpa-publicidad-online
+"
+
+Si por algo destacan los nuevos Mac con chip M1 de Apple silicon es por el silencio. Gracias a su altísima eficiencia y a ser una arquitectura de bajo consumo basada en el proceso litográfico de 5nm de TSMC, el primer SoC de esta familia se calienta muy poco en comparación a los procesadores Intel de los equipos a los que sustituye.
+
+En este sentido, el MacBook Air ni siquiera necesita ventiladores para refrigerarse, mientras que en otros modelos que requieren más rendimiento sostenido como los Pro o los iMac de 24"", Apple sí ha optado por incluirlos. Aun así, son muy raramente audibles en usos en los que antes un equipo Intel sí hacía mucho ruido.
+ 
+
+
+Echando de menos estos ruidos, Guilherme Rambo, un conocido desarrollador de iOS y macOS, conocido por descubrir pistas sobre funciones futuras de los sistemas, ha lanzado FanFan, una aplicación que lo único que hace es activar un sonido de ventilador en un Mac.
+
+Una aplicación que trae lo que siempre quisiste desterrar
+
+
+
+
+
+
+
+
+Los sonidos de ventiladores no son precisamente agradables, a diferencia del crepitar de una hoguerra o del choque de las gotas de la lluvia con una ventana. De hecho, históricamente, siempre ha sido uno de esos sonidos informáticos que se ha querido eliminar, eligiendo ventiladores más silenciosos y componentes que se calentaran menos.
+
+En la descripción que podemos ver la primera vez que abrimos FanFan, leemos que se ejecuta en la barra de menú del sistema, y que simula ""el sonido calmante (relajante) de un ventilador de ordenador"", dependiendo de la carga de recursos del sistema. Es decir, que a más uso de CPU, debería sonar más fuerte o con mayor intensidad.
+
+
+
+
+
+
+
+
+
+
+En Xataka
+
+La potencia, el consumo y la eficiencia del procesador Apple M1, a prueba: un antes y un después en números y en uso real
+
+
+
+
+En nuestro caso, el sonido no ha cambiado dependiendo de la carga de CPU de un MacBook Air M1, y ha sido siempre bastante intenso. Más allá de la anécdota, relajar me ha relajado poco.
+
+Descarga | FanFan
+
+
+
+
+
+
+    Compartir
+    
+           Los Mac con M1 son tan silenciosos que han creado una app para simular el ruido de los ventiladores
+         
+
+
+Facebook
+Twitter
+Flipboard
+E-mail
+
+
+
+Temas
+
+Mac
+
+
+macbook air
+
+
+
+
+","
+         Los Mac con M1 son tan silenciosos que han creado una app para simular el ruido de los ventiladores   ",https://www.genbeta.com/mac/mac-m1-silenciosos-que-han-creado-app-para-simular-ruido-ventiladores
+"
+
+Desde que la pandemia comenzó, las videollamadas en general, y en WhatsApp en particular, han sido una de las tecnologías más usadas para comunicarnos, hasta el punto de haber desarrollado un alto cansancio a ellas.
+
+WhatsApp, como otras, no estaba preparada para lo que venía, por lo que primero aumentó el número de participantes a ocho y más tarde a muchos más gracias a las videollamadas de Facebook Messenger. Ahora, la compañía ha anunciado que hoy lanza otra característica muy esperada, la de poder unirte a una llamada cuyo comienzo te has perdido.
+ 
+
+
+Es muy común que te llamen y no puedas atender la llamada. Hasta ahora, tenías que pedir que te añadieran más tarde, porque si tocabas el enlace de llamada grupal, volvías a llamar a todos los miembros de la llamada, algo un tanto incómodo y que cortaba conversaciones. Veamos cómo se hace.
+
+
+
+
+
+
+
+
+
+Nueva interfaz para unirte a llamadas en curso
+
+
+
+
+
+
+
+
+En un vídeo, WhatsApp ha mostrado que la vista de Llamadas, ahora integra información gráfica que muestra que los participantes se encuentran en una llamada de voz o una videollamada.
+
+En ese momento, cuando aparezca la interfaz de que hay una llamada en curso, podremos unirnos simplemente tocando sobre la conversación. En este sentido, WhatsApp lo indica: ""Toca para unirte"".
+
+
+
+
+
+
+
+
+
+
+En Genbeta
+
+Ocho trucos para ocultarte al máximo en WhatsApp y reforzar la privacidad de tu perfil
+
+
+
+
+No hay que confundir la pestaña de Llamadas con la de Chats, pues podremos seguir escribiendo en un grupo sin entrar en la llamada si vamos a la segunda. Es decir, WhatsApp no te obliga a unirte a una llamada en ningún caso, y se agradece mucho esta nueva opción.
+
+
+
+
+
+
+    Compartir
+    
+           Cómo unirte a llamadas y videollamadas grupales de WhatsApp que han comenzado sin ti
+         
+
+
+Facebook
+Twitter
+Flipboard
+E-mail
+
+
+
+Temas
+
+Mensajería instantánea
+
+
+WhatsApp
+
+
+
+
+","
+         Cómo unirte a llamadas y videollamadas grupales de WhatsApp que han comenzado sin ti   ",https://www.genbeta.com/mensajeria-instantanea/como-unirte-a-llamadas-videollamadas-grupales-whatsapp-que-han-comenzado-ti
+"
+
+Email Protection es la nueva función que DuckDuckGo acaba de lanzar en versión beta. Un servicio en línea con la lucha en favor de la privacidad de la compañía que pretende salvaguardar nuestro correo electrónico de rastreadores y otra amenazas. Usemos el servicio que usemos, la idea es que nadie espíe nuestra bandeja de entrada.
+
+Mediante direcciones de correo electrónico @duck.com gratuitas, la nueva funcionalidad de los responsables del navegador centrado en la privacidad pretende limpiar los correos electrónicos que recibamos de rastreadores y entregárnoslos, ya sin rastro de elementos dedicados a recopilar información, en nuestra dirección de correo habitual. Y con la promesa de no guardar los correos.
+ 
+
+
+
+
+
+El nuevo servicio de DuckDuckGo elimina los rastreadores de correo electrónico y protege la privacidad de nuestra dirección de correo electrónico personal sin necesidad de cambiarla
+
+
+""Te sorprenderá saber que el 70 % de los correos electrónicos contienen rastreadores que pueden detectar cuándo has abierto un mensaje, dónde estabas cuando lo abriste y qué dispositivo estabas utilizando"", dicen desde DuckDuckGo, cuyo buscador superó por primera vez las 100 millones de búsquedas diarias hace pocos meses.
+
+
+
+Un vistazo a…
+
+
+
+
+
+
+
+
+ 
+
+
+
+Cómo mejorar la SEGURIDAD EN INTERNET: VPN, DNS y páginas con HTTPS
+
+Direcciones de correo @duck.com como escudo
+
+
+
+
+
+
+
+Los correos reenviados incluirán una barra en la que se indican los rastreadores eliminados por Email Protection de DuckDuckGo.
+
+
+
+El funcionamiento de Email Protection consiste en proporcionarnos una dirección de correo electrónica gratuita @duck.com a través de la cual recibiremos correo electrónicos potencialmente problemáticos que serán analizados en busca de rastreadores, limpiados en caso de que los tengan y, finalmente, reenviados a nuestra dirección habitual de correo electrónico.
+
+Lo mismo sucederá con las direcciones de reenvío únicas y desechables que podremos generar desde el navegador móvil de DuckDuckGo o mediante las extensiones para navegadores de escritorio (no exentas de problemas recientemente, valga apuntarlo). Estas últimas será las que preferiblemente entregaremos en servicios sospechosos o que nos soliciten una dirección para pruebas gratuitas, por ejemplo. Direcciones distintas para evitar problemas, al igual que usamos contraseñas distintas por lo mismo.
+
+
+Con este servicio de DuckDuckGo obtendremos una cuenta @duck.com personal y principal, pudiendo crear además direcciones desechables para remitentes dudosos o en los que no confiemos
+
+
+La otra dirección, a análoga a la nuestra dirección personal habitual, la utilizaremos como si se tratase de nuestro correo electrónico personal, con amigos, conocidos y servicios de confianza.
+
+Ambas, como decíamos, servirán para eliminar rastreadores ocultos de los correos electrónicos y reenviarlos a nuestra bandeja de siempre. El enfoque es evitar que los usuarios, como puede suceder con servicios como ProtonMail, deban renunciar a su dirección habitual completamente. O cambiar de aplicación utilizada para leer los mensajes o incluso ocultar las imágenes por precaución.
+
+
+
+
+
+
+
+
+
+
+En Xataka
+
+Las 12 extensiones clave en Chrome y Firefox para la privacidad y seguridad en internet
+
+
+
+
+
+
+Email Protection sirve para que nuestra cuenta principal, básica y habitual quede a salvo de miradas indiscretas
+
+
+Por eso Email Protection funciona como un puente. Pese a que debemos empezar a dar la dirección con su dominio, esta sirve para que nuestra cuenta principal, básica y habitual quede a salvo de miradas indiscretas. Y todo con la promesa de que los correos recibidos no se guardan. ""Cuando recibimos un correo electrónico, eliminamos inmediatamente los rastreadores del mismo y te lo reenviamos, sin guardarlo nunca en nuestros sistemas"", explican. El usuario, además, podrá conocer cuáles eran a través de una pequeña barra que el servicio inserta en la parte superior del correo electrónico.
+
+Por otro lado, resulta importante señalar que aunque será posible responder a un correo recibido en una dirección dirección @duck.com, no se podrá utilizar para enviar primer correo, explican en The Verge, ""lo que reduce la utilidad de la herramienta para blanquear el acoso"".
+
+Para probar la versión beta de Email Protection de DuckDuckGo, por ahora, debemos apuntarnos a la lista de espera mediante la aplicación móvil del servicio disponible para Android e iOS. Abriremos Ajustes > Funciones beta > Email Protection y haremos clic en ""Únete a la lista de espera privada"". No tendremos que compartir ninguna información personal para unirnos ya que la aplicación asegura nuestro lugar en la lista mediante una marca de tiempo que existe únicamente en nuestro dispositivo.
+
+
+
+
+
+
+    Compartir
+    
+           DuckDuckGo lanza un servicio de protección del correo electrónico que bloquear rastreadores y ocultar la dirección
+         
+
+
+Facebook
+Twitter
+Flipboard
+E-mail
+
+
+
+Temas
+
+Correo
+Seguridad
+
+
+Correo
+Privacidad
+dirección
+DuckDuckGo
+
+
+
+
+","
+         DuckDuckGo lanza un servicio de protección del correo electrónico que bloquear rastreadores y ocultar la dirección   ",https://www.genbeta.com/correo/duckduckgo-lanza-servicio-proteccion-correo-electronico-que-bloquear-rastreadores-ocultar-direccion
 "
 
 Investigadores expertos en seguridad han descubierto cómo fueron capaces de eludir la autenticación biométrica de Windows 10 en Windows Hello, usando un fotograma infrarrojo de la cara de una persona usuaria del SO de Microsoft. Concretamente, han sido de la empresa Cyber Ark quienes han detallado el proceso para conseguir esta autenticación de Windows Hello y cómo un atacante podría explotarlo. 
@@ -1433,7 +1067,192 @@ Windows 10
 
 
 ","
-         Así es cómo un grupo de investigadores sabe acceder a un PC ajeno con autenticación de Windows Hello y un fotograma infrarrojo   ",https://www.genbeta.com/actualidad/asi-como-grupo-investigadores-sabe-acceder-a-pc-ajeno-autenticacion-windows-hello-fotograma-infrarrojo
+         Así es cómo un grupo de investigadores sabe acceder a un PC ajeno con autenticación de Windows Hello y un fotograma infrarrojo   ",https://www.genbeta.com/actualidad/asi-como-grupo-investigadores-sabe-acceder-a-pc-ajeno-autenticacion-windows-hello-fotograma-infrarrojo
+"
+
+A todos en algún momento nos hace cierta gracia la cantidad de problemas que suelen dar las impresoras, unos dispositivos tan temperamentales que son famosos en hogares y empresas por a veces hacer lo que les da la gana. Pero, los problemas relacionados con impresoras que están lloviendo en 2021, son bastante más peligrosos. 
+
+La más reciente es una vulnerabilidad que tiene nada más y nada menos que 16 años, y que acaba de ser descubierta por SentinelOne. Este fallo afecta a los controladores de impresoras HP, Xerox y Samsung, y permite a un atacante obtener privilegios de administrador en los sistemas que estén usando el software vulnerable. 
+ 
+
+
+Una vulnerabilidad de severidad alta para acompañar a PrintNightmare
+
+
+
+
+
+
+
+
+La vulnerabilidad identificada como CVE-2021-3438 existe desde 2005 y afecta cientos de millones de dispositivos y usuarios en todo el mundo. Se trata de un fallo de desbordamiento de búfer en el driver SSPORT.SYS de modelos específicos de impresoras, que puede llevar a una escalada local de privilegios de usuario. 
+
+Según los investigadores, el controlador o driver problemático, se instala automáticamente con el software de la impresora y será cargado por Windows tras cada reinicio del sistema. Esto permite que el bug pueda ser explotado cuando la impresora ni siquiera está conectada al ordenador. 
+
+
+Si la vulnerabilidad del controlador es explotada con éxito, podría permitir a los atacantes instalar programas, ver, cambiar, cifrar o eliminar datos, o crear nuevas cuentas con privilegios elevados de usuario.
+
+
+
+
+
+
+
+
+
+
+La culpa técnicamente no es de la propia impresora, sino específicamente del código necesario para que funcione. La lista de modelos HP vulnerables puede ser encontrara en el aviso de seguridad de la empresa, al igual que en este boletín de seguridad de Xerox que incluyen enlaces para los parches de seguridad disponibles. 
+
+Al hablar de esta vulnerabilidad es imposible no mencionar el caso PrintNightmare,  una vulnerabilidad crítica en Windows que afecta al servicio de Cola de Impresión, que está siendo explotado activamente, y ha recibido parches accidentados que no terminan de solucionar el problema del todo. 
+
+
+
+
+
+
+
+
+
+
+En Genbeta
+
+Descarga gratis para imprimir estos espectaculares mapas de Madrid, Barcelona, Valencia o Málaga o haz el de tu ciudad
+
+
+
+
+Tras salir al descubierto los problemas con PrintNightmare, varios investigadores se han dedicado a examinar más de cerca las APIs de impresión de Windows y han terminado encontrando más vulnerabilidades, incluyendo un nuevo bug zero day hace apenas un par de días, que permite a un atacante obtener privilegios elevados de Sistema a través de un servidor remoto de impresión. Ninguno de los fallos tiene solución definitiva de momento. 
+
+Imagen de portada | Zhivko Terziivanov
+
+
+
+
+
+
+    Compartir
+    
+           El ataque de las impresoras: tras PrintNightmare en Windows, ahora tenemos un bug de 16 años en drivers de HP, Xerox y Samsung
+         
+
+
+Facebook
+Twitter
+Flipboard
+E-mail
+
+
+
+Temas
+
+Actualidad
+Seguridad
+
+
+bug
+Vulnerabilidad
+impresoras
+
+
+
+
+","
+         El ataque de las impresoras: tras PrintNightmare en Windows, ahora tenemos un bug de 16 años en drivers de HP, Xerox y Samsung   ",https://www.genbeta.com/seguridad/ataque-impresoras-printnightmare-windows-ahora-tenemos-bug-16-anos-drivers-hp-xerox-samsung
+"
+
+Seis hombres y tres mujeres han sido detenidos por la Policía Judicial de Portugal por comercializar de forma ilícita servicios de IPTV. Los arrestados vinculan a esta operación, que han llamado Dark Stream, delitos como los de fraude informático, acceso ilegítimo, fraude fiscal, blanqueo de capitales y la asociación ilícita.
+
+Las fuerzas del orden lusas han llevado a cabo un total de 13 registros, tanto en domicilios como en instalaciones relacionadas con la investigación, y las detenciones indicadas. Una de las personas arrestadas, todas ellas con entre 35 y 55 años, poseía armas de fuego ilegales, según TorrentFreak. Los responsables del servicio se enfrentarían a penas que van desde uno a cinco años de prisión.
+ 
+
+
+
+
+
+Medios locales tildan al servicio de ""Netflix pirata"" por su sofisticación, ya que incluso permitía la conexión simultánea de varios dispositivos, aunque su oferta se limitaba a IPTV
+
+
+La operación se ha llevado a cabo tras dos años de investigación. El servicio en cuestión, que ha sido identificado por medios locales como IPTV do Sogro (traducido como ""la IPTV del suegro""), ofrecía diferentes paquetes con distintos tipos de contenidos y tarifas tanto mensuales como anuales que oscilaban entre los 7 euros al mes o lo 90 euros al año. 
+
+Seis salas de servidores incautadas
+
+
+
+
+
+
+
+
+Las autoridades portuguesas han informado de que se ha realizado la incautación de grandes volúmenes de bienes, entre ellos, el contenido de seis salas de servidores y otros equipos informáticos involucrados en hacer posible el funcionamiento del servicio supuestamente ilegal de IPTV que operaban. También se han incautado cuentas bancarias, además de unos 8.000 euros en efectivo y un coche.
+
+La investigación se inició en 2019, a partir de una denuncia. Los medios locales estiman que esta plataforma ilícita contaba con más de un millar de clientes y habría obtenido unos beneficios de alrededor de 150.000 euros en los últimos dos años. El año que habrían causado ha sido estimado en medio millón de euros aproximadamente y la principal víctima sería un proveedor de telecomunicaciones con derechos de transmisión. ZAP Noticias asegura que sería la compañía NOS.
+
+
+Los responsables, según 'ZAP Noticias', habrían obtenido unos beneficios de 150.000 euros en los últimos dos años
+
+
+
+
+
+
+
+
+
+
+
+
+En Genbeta
+
+Las cifras de uso de IPTV que quiere enterrar la UE: más de 2 millones de españoles ven emisiones no autorizadas vía Kodi o VLC
+
+
+
+
+Este periódico tilda al servicio de ""Netflix pirata"" por su sofisticación, ya que incluso permitía la conexión simultánea de varios dispositivos. No obstante, el contenido no eran series o películas bajo demanda, sino IPTV como decíamos. Estaría ofreciendo, según el medio, la misma oferta de canales tanto portugueses como internacionales de los que dispone la operadora NOS en sus paquetes televisivos.
+
+Portugal participó en el desmantelamiento de Mobdro el pasado mes de marzo junto con las autoridades españolas y andorranas, aunque como informa TorrentFreak las operaciones de este tipo en el país vecino son relativamente escasas. Recientemente, en España, también fueron detenidas varias personas por vender de forma ilícita servicios IPTV y televisión por satélite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Compartir
+    
+           Detenidas 9 personas por comercializar listas IPTV ilícitamente: ofrecían diferentes paquetes y tarifas desde Portugal
+         
+
+
+Facebook
+Twitter
+Flipboard
+E-mail
+
+
+
+Temas
+
+Actualidad
+
+
+iptv
+servicio
+portugal
+
+
+
+
+","
+         Detenidas 9 personas por comercializar listas IPTV ilícitamente: ofrecían diferentes paquetes y tarifas desde Portugal   ",https://www.genbeta.com/actualidad/detenidas-9-personas-comercializar-ilicitamente-servicios-iptv-ofrecian-diferentes-paquetes-tarifas-portugal
 "
 
 Hasta hace muy poco, la única forma de comprar un billete de tren para moverte por España era hacerlo a través de la página web de Renfe. Desde hace unos meses, eso ha cambiado con la llegada de Ouigo, pero para la mayoría de trayectos, la vieja operadora ferroviaria sigue siendo la única opción.
@@ -1508,4 +1327,185 @@ Renfe
 
 
 ","
-         Usar VPN y cambiar la hora: la esperpéntica solución que da Renfe si la web no te deja comprar billetes desde fuera de España   ",https://www.genbeta.com/web/usar-vpn-cambiar-hora-esperpentica-solucion-que-da-renfe-web-no-te-deja-comprar-billetes-fuera-espana
+         Usar VPN y cambiar la hora: la esperpéntica solución que da Renfe si la web no te deja comprar billetes desde fuera de España   ",https://www.genbeta.com/web/usar-vpn-cambiar-hora-esperpentica-solucion-que-da-renfe-web-no-te-deja-comprar-billetes-fuera-espana
+"
+
+Hoy es un día histórico para Blue Origin, Jeff Bezos, el ya ex-CEO de Amazon, su hermano, Mark Bezos, Wally Funk, y Oliver Daemen. Estas cuatro personas se embarcarán en la decimosexta misión de la nave reutilizable New Shepard, aunque será la primera en contar con tripulación a bordo.
+
+Vamos a contarte cómo ver el histórico vuelo en directo a través del medio que la compañía ha habilitado para ello, para que no te pierdas nada de este día tan importante para Bezos y Wally Funk, que se convertirá en la persona más mayor en ir al espacio a sus 82 años.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Cómo seguir en directo el primer ""vuelo humano"" de la New Shepard
+
+
+
+
+
+
+
+Según Blue Origin, la New Shepard despegará a las 15.00 hora peninsular española. Sin embargo el streaming de la compañía, que puedes ver desde YouTube, además de en el vídeo incrustado aquí en Genbeta, indica que desde las 13.30 habrá emisión.
+
+Es probable que tengan preparado algo a modo de previa para llenar ese hueco de 90 minutos para el despegue. Estas son las horas de lanzamiento para los distintos países de habla hispana:
+
+
+España: 15:00 horas.
+México: 08:00 horas.
+Ecuador, Colombia: 08:00 horas.
+Venezuela: 09:00 horas.
+Argentina: 10:00 horas.
+Chile y Cuba: 09:00 horas.
+
+La misión consistirá en la realización de un vuelo parabólico que llegará a más de 100 kilómetros de altura sobre el lugar de despegue. Es ahí donde se considera internacionalmente que comienza el Espacio. El otro magnate que fue al espacio, Richard Branson, de Virgin Galactic, solamente alcanzó 86 kilómetros de altura, algo que desde Blue Origin no consideran salir de la Tierra, pues la Línea de Kármán marca esos 100 kilómetros de altura.
+
+
+
+
+
+
+
+
+La nave despegará desde ""una ubicación remota en el desierto al oeste de Texas"", y el vuelo durará unos 11 minutos. Una vez alcancen la altura máxima, la tripulación tendrá unas vistas magníficas de la Tierra gracias a las enormes ventanas de la nave.
+
+
+
+
+
+
+    Compartir
+    
+           Cómo seguir en directo el histórico primer vuelo tripulado de Blue Origin con Jeff Bezos a bordo
+         
+
+
+Facebook
+Twitter
+Flipboard
+E-mail
+
+
+
+Temas
+
+Actualidad
+
+
+espacio
+directo
+
+
+
+
+","
+         Cómo seguir en directo el histórico primer vuelo tripulado de Blue Origin con Jeff Bezos a bordo   ",https://www.genbeta.com/actualidad/como-seguir-directo-historico-primer-vuelo-tripulado-blue-origin-jeff-bezos-a-bordo
+"
+
+Cainiao es el nombre de la empresa logística subsidiaria del grupo Alibaba encargada del envío de productos de AliExpress. Una compañía fundada en 2013 que, con el paso de los años y la inyección de 15.000 millones de dólares en 2018, se está convirtiendo en una parte fundamental de la estrategia del grupo empresarial chino.
+
+Un gigante de la logística impulsado por la tecnología con un objetivo próximo sumamente ambicioso: ser un temible rival para Amazon Prime y otros servicios similares. ¿Cómo? Enviando cualquier producto a cualquier parte de planeta en solo 72 horas y por 3 dólares al mes. Lo desvela un reportaje del Wall Street Journal.
+ 
+
+
+
+
+
+El Amazon Prime de AliExpress tiene el objetivo de lograr envíos a cualquier parte del mundo en 72 horas por una cuota de 3 dólares al mes
+
+
+El futuro de AliExpress pasa por una logística potente y al nivel de Amazon
+
+
+
+
+
+
+
+
+Amazon le debe parte de su éxito a lo logística tan efectiva que ha logrado. Actualmente, el gigante del comercio electrónico posee una flota de transporte propia con más de 40.000 camiones y 75 aviones, además de acuerdo con diferentes operadores para lograr rápidos envíos en los más de veinte países en los que opera.
+
+Gracias a ello, los consumidores pueden pedir un producto un día por la mañana y recibirlo no ya el día siguiente, sino esa misma jornada por la tarde. Amazon Prime, que en el caso de España es de 36 euros al año, ofrece como principal atractivo la tarifa plana para envíos. La comodidad de pedir algo y recibirlo en cuestión de horas es indudable y se valora; así se ha convertido su fundador, Jeff Bezos, es una de las personas más ricas del planeta con permiso de Elon Musk.
+
+
+Cainiao, gracias a su fuerte apuesta tecnológica y la alianza con 3.000 empresas logísticas, busca lograr envíos rápidos de productos de AliExpress a todo el mundo
+
+
+AliExpress, con Cainiao, busca lograr algo similar. Pese a que en países como España ya están disponible envíos rápidos de ciertos productos, aquellos que generalmente ya se encuentran en almacenes locales, la idea es evolucionar esa rapidez en el envío y extenderla a todo el mundo.
+
+Continuando con su alianza con más de 3.000 socios del sector del transporte y la logística, tanto aerolíneas como servicios postales, AliExpress con Cainiao pretende garantizar la entrega de cualquier paquete en cualquier parte del mundo en 72 horas por 3 dólares al mes.
+
+
+
+
+
+
+
+
+
+
+En Genbeta
+
+Así han cambiado Aliexpress y otras tiendas chinas con el nuevo IVA obligatorio (del que no avisan hasta justo antes de comprar)
+
+
+
+
+
+
+La suscripción a AliExpress para envíos gratis en 72 horas no tiene fecha, pero es previsible que pueda rivalizar con Amazon Prime en mercados como el español
+
+
+Los 2,55 euros al mes que costaría la suscripción a AliExpress al cambio en el momento de publicar esta pieza, resultaría algo inferior al de Amazon Prime para los consumidores ubicados en territorio español y notablemente más elevado respecto al que pagan, por ejemplo, en Reino Unido, que equivale a unos 92 euros anuales, unos 7,6 euros al mes.
+
+Cainiao, que como Amazon ha apostado fuertemente por la automatización en sus centros logísticos para agilizar de forma increíble el procesamiento de las mercancías, puede plantar cara al gran exponente del comercio minorista mundial si se materializa una suscripción a AliExpress como la planteada. Todo ello incluso con la afectación que provoca el nuevo paquete IVA de la Unión Europea que obliga a aplicar esta tasa incluso a envíos cuyo valor no supere los 150 euros. Sin fechas de lanzamiento de la posible suscripción en el horizonte, falta aguardar próximos movimientos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Compartir
+    
+           El Amazon Prime de AliExpress es un rival temible: plantea envíos a todo el mundo en 72 horas por 3 dólares al mes
+         
+
+
+Facebook
+Twitter
+Flipboard
+E-mail
+
+
+
+Temas
+
+Actualidad
+
+
+envíos
+Amazon Prime
+AliExpress
+
+
+
+
+","
+         El Amazon Prime de AliExpress es un rival temible: plantea envíos a todo el mundo en 72 horas por 3 dólares al mes   ",https://www.genbeta.com/actualidad/amazon-prime-aliexpress-rival-temible-plantea-envios-a-todo-mundo-72-horas-3-dolares-al-mes
