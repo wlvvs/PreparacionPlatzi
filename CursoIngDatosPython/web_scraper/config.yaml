@@ -1,19 +1,25 @@
 news_sites:
-  geeks:
-    url: https://geeksroom.com/
+  hipertextual:
+    url: https://hipertextual.com
     queries:
-      homepage_article_links: '.title a'
-      article_body: '.thecontent'
-      article_title: '.single-title'
+      homepage_article_links: '.entry-title a'
+      article_body: '.entry-content'
+      article_title: '.entry-header h1'
   xakata:
     url: https://www.xataka.com.mx/
     queries:
       homepage_article_links: '.abstract-title a'
       article_body: '.article-content'
       article_title: '.article-header span'
-  microsiervos:
-    url: https://www.microsiervos.com/
+  unocero:
+    url: https://www.unocero.com
     queries:
-      homepage_article_links: '.title a'
-      article_body: '.articulo'
-      article_title: '.title span'
+      homepage_article_links: '.data a'
+      article_body: '.Tech-Content'
+      article_title: '.Post-Main h1'
+  genbeta:
+    url: https://www.genbeta.com
+    queries:
+      homepage_article_links: '.abstract-title a'
+      article_body: '.article-content'
+      article_title: '.article-header span'
