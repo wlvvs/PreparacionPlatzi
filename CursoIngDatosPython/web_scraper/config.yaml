@@ -11,12 +11,6 @@ news_sites:
       homepage_article_links: '.abstract-title a'
       article_body: '.article-content'
       article_title: '.article-header span'
-  unocero:
-    url: https://www.unocero.com
-    queries:
-      homepage_article_links: '.data a'
-      article_body: '.Tech-Content'
-      article_title: '.Post-Main h1'
   genbeta:
     url: https://www.genbeta.com
     queries:
