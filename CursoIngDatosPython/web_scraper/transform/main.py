@@ -35,14 +35,12 @@ def main(filename):
 
 def _read_data(filename):
     logger.info('Reading file {}'.format(filename))
-    filename = dir_news.format(filename)
 
     return pd.read_csv(filename)
 
 
 def _extract_newspaper_uid(filename):
     logger.info('Extract newspaper uid')
-    filename = dir_news.format(filename)
     newspaper_uid = filename.split('_')[0]
 
     logger.info('Newspaper uid detected: {}'.format(newspaper_uid))
