@@ -10,7 +10,6 @@ from nltk.corpus import stopwords
 logging.basicConfig(level = logging.INFO)
 logger = logging.getLogger(__name__)
 stop_words = set(stopwords.words('spanish'))
-dir_news = './files/{}'
 
 
 def main(filename):
@@ -137,7 +136,6 @@ def _drop_rows_with_missing_values(df):
 
 def _save_data(df, filename):
     clean_filename = 'clean_{}'.format(filename)
-    clean_filename = dir_news.format(clean_filename)
     logger.info('Saving data at location: {}'.format(clean_filename))
     df.to_csv(clean_filename, encoding = 'utf-8-sig')
 

@@ -41,10 +41,9 @@ def _save_articles(news_site_uid, articles):
         news_site_uid = news_site_uid,
         datetime = now
     )
-    dir_news = './files/{}'
     csv_headers = list(filter(lambda property: not property.startswith('_'), dir(articles[0])))
 
-    with open(dir_news.format(out_file_name), mode = 'w+', encoding = 'utf-8') as f:
+    with open(out_file_name, mode = 'w+', encoding = 'utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(csv_headers)
         
