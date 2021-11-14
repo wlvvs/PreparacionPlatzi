@@ -6,4 +6,3 @@ db.inventory.aggregate(
     { $match: { $and: [{ qty: { $gte: 1 } }, { qty: { $lte: 100 } }] } },
     { $group: { _id: '$qty', total: { $sum: '$qty' } } }
 )
-
