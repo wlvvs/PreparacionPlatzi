@@ -1,0 +1,9 @@
+// Select the database to use.
+use('wlvvs_local');
+// De la coleccion de inventario, se agrega a partir de cantidad aquellas que estan entre
+// 50 y 100 y se usa qty para conformar la llave y la suma se guarda en un nuevo valor, total
+db.inventory.aggregate(
+    { $match: { $and: [{ qty: { $gte: 1 } }, { qty: { $lte: 100 } }] } },
+    { $group: { _id: '$qty', total: { $sum: '$qty' } } }
+)
+
