@@ -1,4 +1,5 @@
 from icecream import ic
+from icecream.icecream import NoSourceAvailableError
 
 def run() -> None:
     n = int(input("""
