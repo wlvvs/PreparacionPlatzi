@@ -1,0 +1,36 @@
+Los puntos a considerar para el planteamiento del reto propuesto para el curso, considera las siguientes entidades principales:
+
+Entidad: Pasajero
+Tipo de entidad: Catalogo
+Descripcion: Catalogo de pasajeros que hacen uso de un tren
+Atributos: Id, Id Estacion de origen, Id Estacion de destino, Fecha de viaje
+
+Entidad: Lineas
+Tipo de entidad: Catalogo
+Descripcion: Catalogo de lineas o rutas del sistema de trenes
+Atributos: Id, Nombre, Estatus
+
+Entidad: Estacion
+Tipo de entidad: Catalogo
+Descripcion: Catalogo de estaciones de trenes incorporadas al sistema
+Atributos: Id, Nombre, Estatus
+
+Entidad: LineasEstaciones
+Tipo de entidad: Cruce
+Descripcion: Cruce entre lineas y estaciones para determinar rutas
+Atributos: Id, Id de linea, Id de estacion, Orden, Estatus
+
+Entidad: Tren
+Tipo de entidad: Catalogo
+Descripcion: Catalogo de trenes incorporados al sistema
+Atributos: Id, Cupo, Estatus
+
+Entidad: BitacoraViajesTrenes
+Tipo de entidad: Cruce
+Descripcion: Cruce entre trenes y lineas para registrar los viajes que hace un tren
+Atributos: Id, Id de tren, Id de linea, Fecha de inicio de viaje, Fecha de fin de viaje
+
+Entidad: BitacoraViajesPasajeros
+Tipo de entidad: Movimiento
+Descripcion: Cruce entre pasajeros, trenes y lineas para registrar la ruta que sigue un pasajero
+Atributos: Id, Id de tren, Id de linea, Id de pasajero, Tiempo de viaje, Tiempo de espera, Fecha de registro
