@@ -4,25 +4,25 @@ Script to create the structure of database used to perform the project of the co
 
 create extension if not exists "uuid-ossp";
 
-create table passegers (
+create table passengers (
 	id uuid not null default uuid_generate_v4(),
 	origin_station_id uuid not null,
 	destination_station_id uuid not null,
     travel_date timestamp not null default current_timestamp,
-	constraint passegers_pk primary key (id)
+	constraint passengers_pk primary key (id)
 );
 
 comment on
-column passegers.id is 'primary key of the table';
+column passengers.id is 'primary key of the table';
 
 comment on
-column passegers.origin_station_id is 'foreign key of origin station';
+column passengers.origin_station_id is 'foreign key of origin station';
 
 comment on
-column passegers.destination_station_id is 'foreign key of destination station';
+column passengers.destination_station_id is 'foreign key of destination station';
 
 comment on
-column passegers.travel_date is 'date of the travel';
+column passengers.travel_date is 'date of the travel';
 --
 
 create table trainlines (
@@ -66,15 +66,18 @@ column stations.created is 'date of created row';
 comment on
 column stations.status is 'status of the row';
 
-alter table passegers add constraint stations_passegers_origin_station_id_fk foreign key (origin_station_id) references stations(id);
+alter table passengers add constraint stations_passengers_origin_station_id_fk foreign key (origin_station_id) references stations(id);
 
-alter table passegers add constraint stations_passegers_destination_station_id_fk foreign key (destination_station_id) references stations(id);
+alter table passengers add constraint stations_passengers_destination_station_id_fk foreign key (destination_station_id) references stations(id);
 
-create index passegers_origin_station_id_idx on
-passegers (origin_station_id);
+create index passengers_origin_station_id_idx on
+passengers (origin_station_id);
 
-create index passegers_destination_station_id_idx on
-passegers (destination_station_id);
+create index passengers_destination_station_id_idx on
+passengers (destination_station_id);
+
+ALTER TABLE stations ADD CONSTRAINT stations_station_name_un UNIQUE (station_name);
+
 --
 CREATE TABLE linesstations (
 id uuid not null default uuid_generate_v4(),
@@ -184,6 +187,7 @@ create table passengertravellog (
     passenger_id uuid not null,
     train_id uuid not null,
     station_id uuid not null,
+	line_id uuid not null,
     travel_time time not null,
     wait_time time not null,
 	created timestamp not null default current_timestamp,
@@ -204,6 +208,9 @@ comment on
 column passengertravellog.station_id is 'foreign key of station';
 
 comment on
+column passengertravellog.line_id is 'foreign key of line';
+
+comment on
 column passengertravellog.travel_time is 'time takes the travel';
 
 comment on
@@ -215,11 +222,13 @@ column passengertravellog.created is 'date of created row';
 comment on
 column passengertravellog.status is 'status of created row';
 
-alter table passengertravellog add constraint passegers_passengertravellog_passenger_id_fk foreign key (passenger_id) references passegers(id);
+alter table passengertravellog add constraint passengers_passengertravellog_passenger_id_fk foreign key (passenger_id) references passengers(id);
 
 alter table passengertravellog add constraint stations_passengertravellog_station_id_fk foreign key (station_id) references stations(id);
 
 alter table passengertravellog add constraint trains_passengertravellog_train_id_fk foreign key (train_id) references trains(id);
+
+alter table passengertravellog add constraint trainlines_passengertravellog_line_id_fk foreign key (line_id) references trainlines(id);
 
 create index passengertravellog_passenger_id_idx on
 passengertravellog (passenger_id);
@@ -229,3 +238,6 @@ passengertravellog (train_id);
 
 create index passengertravellog_station_id_idx on
 passengertravellog (station_id);
+
+create index passengertravellog_line_id_idx on
+passengertravellog (line_id);
