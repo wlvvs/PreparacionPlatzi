@@ -1,0 +1,27 @@
+h2 {
+    color: blueviolet;
+    font-size: 35px;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(144, 91, 194);
+    font-size: 25px;
+    text-align: left;
+}
+
+h4 {
+    color: rgb(229, 212, 245);
+    font-size: 15px;
+    text-align: left;
+}
+
+h5 {
+    color: red;
+    font-size: 12px;
+    text-align: left;
+}
+
+body {
+    background-image: url("https://image.freepik.com/free-photo/brown-wooden-textured-flooring-background_53876-129613.jpg");
+}

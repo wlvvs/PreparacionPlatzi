@@ -1,0 +1,17 @@
+/* element */
+p {
+    color: blueviolet;
+    font-size: 32px;
+}
+
+/* class */
+.format1 {
+    color: greenyellow;
+    font-size: 40px;
+}
+
+/* id */
+#format2 {
+    color: goldenrod;
+    font-size: 38px;
+}
